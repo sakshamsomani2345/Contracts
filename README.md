@@ -1,1 +1,1 @@
-# Thsese are the few smart contracts which are wriiten in solidity language.
+# These are the few smart contracts which are wriiten in solidity language.
